@@ -1,0 +1,7 @@
+/assets/js/bundle.js
+/assets/dist
+stencil.conf.js
+webpack.conf.js
+/assets/js/**/*.spec.js
+/assets/js/dependency-bundle.js
+/assets/js/**
