@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"rvest.vs-code-prettier-eslint",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"mikestead.dotenv",
+		"csstools.postcss",
+		"blanu.vscode-styled-jsx",
+		"bradlc.vscode-tailwindcss"
+	]
+}
